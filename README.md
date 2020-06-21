@@ -2,7 +2,7 @@
 *
 This is an Api made up of Django and Resfemvork. In this application, user can fill the data in admin and convert it into Api *
 
-** -- Some operations have to perform first --  **
+**Some commands or operations have to perform first**
 1. First of all you have to clone the repositry.
 ` git clone ---- and paste link here`
 2. Create a virtualEnviroment.
@@ -17,5 +17,6 @@ This is an Api made up of Django and Resfemvork. In this application, user can f
 8. And that's it your api is ready to work.
 9. If you want new employ information so go to the admin panel 127.0.0.1:8000/admin , and add a new employee information.
 
+![Api Screenshot](ss.png)
 
 **Thank You**
